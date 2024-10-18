@@ -1,0 +1,13 @@
+[2024-10-18 14:55:08,834] werkzeug - WARNING -  * Debugger is active!
+[2024-10-18 14:55:08,834] werkzeug - INFO -  * Debugger PIN: 108-476-895
+[2024-10-18 14:55:19,492] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 14:55:19] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 14:55:51,443] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 14:55:51] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 14:58:24,217] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 14:58:24] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 14:59:31,305] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 14:59:31] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+[2024-10-18 15:00:01,544] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:00:01] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -
+[2024-10-18 15:00:30,911] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:00:30] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 15:01:41,776] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:01:41] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 15:03:30,118] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:03:30] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 15:07:19,735] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:07:19] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 15:10:29,428] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 15:10:29] "POST /webhook HTTP/1.1" 200 -
+[2024-10-18 15:19:57,855] werkzeug - INFO -  * Detected change in 'd:\\Github\\AI\\NLP\\Projects\\End-to-End Weather Chatbot with Google DialogFlow and AWS CI_CD Deployment\\weather_data.py', reloading

@@ -1,0 +1,3 @@
+[2024-10-18 14:17:03,560] werkzeug - WARNING -  * Debugger is active!
+[2024-10-18 14:17:03,560] werkzeug - INFO -  * Debugger PIN: 108-476-895
+[2024-10-18 14:17:06,775] werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 14:17:06] "[35m[1mPOST /webhook HTTP/1.1[0m" 500 -

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: google-dialogflow-chatbot
+Version: 0.0.0
+Summary: chatbot is being created
+Author: Hamza Fayaz
+License: MIT
+Requires-Dist: Flask
+Requires-Dist: flask_cors
+Requires-Dist: pyowm
