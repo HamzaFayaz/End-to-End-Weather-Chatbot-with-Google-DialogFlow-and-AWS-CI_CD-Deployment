@@ -1,5 +1,18 @@
+certifi
+chardet
+Click
 Flask
-flask_cors
+Flask-Cors
+idna
+itsdangerous
+Jinja2
+MarkupSafe
 pyowm
+requests
+six
+urllib3
+Werkzeug
+wincertstore
+gunicorn
 
--e .
+
